@@ -1,0 +1,81 @@
+
+  .regis_body
+{
+  background-image: url(/images/join.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position:top right ;
+}
+.
+.registration_form 
+{
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  width: 350px;
+}
+
+..registration_form form
+{
+  display: inline-block;
+  margin-left: 50px;
+}
+.registration_form h1{
+  font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 40px 0;
+  color: #ffffff;
+}
+.registration_form p{
+  font-size: 20px;
+  margin: 15px 0;
+  color: #ffffff;
+}
+form{
+margin-left: 214px;
+}
+.registration_form input
+{
+  font-size: 16px;
+  padding: 15px 10px;
+  width: 400px;
+  border: 0;
+  border-radius: 5px;
+  outline: none;
+}
+.registration_form button
+{
+  font-size: 18px;
+  margin-left: 50px;
+  font-weight: bold;
+  margin: 20px 0;
+  padding: 10px 15px;
+  width: 40%;
+  border: 0;
+  border-radius: 5px;
+  background-color: #ffffff;
+
+}
+.registration_form button:hover
+{
+  color:red;
+  background-color: cadetblue;
+  transform: scale(1.1);
+}
+.gender
+{
+  color: #ffffff;
+}
+.gender g1
+{
+  margin: 2px;
+}
+.gender input{
+  margin-left: -51px;
+  display: flex;
+
+}
+
+  
